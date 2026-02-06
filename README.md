@@ -12,6 +12,6 @@ This skill is designed to help both novice and expert engineers stay sharp by pr
 - vision: AI as a Tutor, not a Crutch.
 
 ## Contact
-- reid *(@reidkimball.com)
+- reid (@reidkimball.com)
 - https://reidkimball.com
 - https://www.linkedin.com/in/reidkimball/
